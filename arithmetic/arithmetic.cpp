@@ -19,7 +19,7 @@ int main() {
     float coneRadius = 7.65;
     float coneHeight = 14;
 
-    float volCube, volSphere, volCone = 0;
+    double volCube, volSphere, volCone = 0;
 
     //find volume of cube
     volCube = std::pow(cubeSide, 3);
