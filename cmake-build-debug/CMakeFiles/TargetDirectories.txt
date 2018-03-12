@@ -1,0 +1,10 @@
+/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/CMakeFiles/Arithmetic.dir
+/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/CMakeFiles/StringStream.dir
+/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/CMakeFiles/HeaderFiles.dir
+/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/CMakeFiles/Enums.dir
+/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/CMakeFiles/FormatOutput.dir
+/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/CMakeFiles/FileIO.dir
+/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/CMakeFiles/UserInput.dir
+/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/CMakeFiles/SimpleApp.dir

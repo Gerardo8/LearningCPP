@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/gerardo8/Development/Other/C++/LearningCPP/header-files/header-files.cpp
+header-files.hpp
+/Users/gerardo8/Development/Other/C++/LearningCPP/header-files/header-files.hpp
+
+/Users/gerardo8/Development/Other/C++/LearningCPP/header-files/header-files.hpp
+iostream
+-
+

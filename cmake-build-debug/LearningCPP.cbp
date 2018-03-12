@@ -1,0 +1,408 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="LearningCPP"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Arithmetic">
+				<Option output="/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Arithmetic" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 Arithmetic"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Arithmetic/fast">
+				<Option output="/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Arithmetic" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 Arithmetic/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="StringStream">
+				<Option output="/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/StringStream" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 StringStream"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="StringStream/fast">
+				<Option output="/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/StringStream" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 StringStream/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HeaderFiles">
+				<Option output="/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/HeaderFiles" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 HeaderFiles"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="HeaderFiles/fast">
+				<Option output="/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/HeaderFiles" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 HeaderFiles/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Enums">
+				<Option output="/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Enums" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 Enums"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Enums/fast">
+				<Option output="/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Enums" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 Enums/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="FormatOutput">
+				<Option output="/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/FormatOutput" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 FormatOutput"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="FormatOutput/fast">
+				<Option output="/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/FormatOutput" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 FormatOutput/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="FileIO">
+				<Option output="/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/FileIO" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 FileIO"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="FileIO/fast">
+				<Option output="/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/FileIO" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 FileIO/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="UserInput">
+				<Option output="/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/UserInput" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 UserInput"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="UserInput/fast">
+				<Option output="/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/UserInput" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 UserInput/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SimpleApp">
+				<Option output="/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/SimpleApp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 SimpleApp"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="SimpleApp/fast">
+				<Option output="/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/SimpleApp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 SimpleApp/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/gerardo8/Development/Other/C++/LearningCPP/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/gerardo8/Development/Other/C++/LearningCPP/arithmetic/arithmetic.cpp">
+			<Option target="Arithmetic"/>
+		</Unit>
+		<Unit filename="/Users/gerardo8/Development/Other/C++/LearningCPP/enums/enums.cpp">
+			<Option target="Enums"/>
+		</Unit>
+		<Unit filename="/Users/gerardo8/Development/Other/C++/LearningCPP/file-io/file-io.cpp">
+			<Option target="FileIO"/>
+		</Unit>
+		<Unit filename="/Users/gerardo8/Development/Other/C++/LearningCPP/format-output/format-output.cpp">
+			<Option target="FormatOutput"/>
+		</Unit>
+		<Unit filename="/Users/gerardo8/Development/Other/C++/LearningCPP/header-files/header-files.cpp">
+			<Option target="HeaderFiles"/>
+		</Unit>
+		<Unit filename="/Users/gerardo8/Development/Other/C++/LearningCPP/header-files/header-files.hpp">
+			<Option target="HeaderFiles"/>
+		</Unit>
+		<Unit filename="/Users/gerardo8/Development/Other/C++/LearningCPP/simple-app/simple-app.cpp">
+			<Option target="SimpleApp"/>
+		</Unit>
+		<Unit filename="/Users/gerardo8/Development/Other/C++/LearningCPP/string-stream/string-stream.cpp">
+			<Option target="StringStream"/>
+		</Unit>
+		<Unit filename="/Users/gerardo8/Development/Other/C++/LearningCPP/user-input/user-input.cpp">
+			<Option target="UserInput"/>
+		</Unit>
+		<Unit filename="/Users/gerardo8/Development/Other/C++/LearningCPP/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
